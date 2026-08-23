@@ -72,7 +72,7 @@ The Revenue dashboard analyzes booking value by:
 - Vehicle Type
 - Total Booking Value
 
-![Revenue Dashboard](revenue.png)
+![Revenue Dashboard](Revenue.png)
 
 ---
 
@@ -90,7 +90,7 @@ It includes:
 - Cancelled by Customer
 - Driver Not Found
 
-![Cancellation Dashboard](cancellation.png)
+![Cancellation Dashboard](Cancellation.png)
 
 ---
 
@@ -104,7 +104,7 @@ The Rating dashboard analyzes:
 - Vehicle Type
 - Rating distribution
 
-![Rating Dashboard](rating.png)
+![Rating Dashboard](Rating.png)
 
 ---
 
