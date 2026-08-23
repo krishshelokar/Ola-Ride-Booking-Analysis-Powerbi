@@ -196,4 +196,4 @@ Rating
 
 Krish Shelokar
 
-Data Analytics | Power BI | SQL | Exel
+Data Analytics | Power BI | SQL | Excel
